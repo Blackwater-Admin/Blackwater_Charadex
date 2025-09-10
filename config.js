@@ -15,9 +15,9 @@ let charadex = {};
 /* Any preview links will still show Charadex's information
 /* ==================================================================== */
 charadex.site = {
-  title: "Charadex",
+  title: "Blackwater Mountain",
   url: "https://charadex-team.github.io/charadex-v1.0/",
-  description: `A tool for organizing small ARPGs and species.`
+  description: `An ARPG where you can create a pack of wolves.`
 }
 
 /* ==================================================================== */
@@ -26,7 +26,7 @@ charadex.site = {
 /* ==================================================================== */
 charadex.sheet = {
 
-  id: "1GwgfLizD3HQCieGia6di-TfU4E3EipT9Jb0BDZQwNak",
+  id: "1LULTzlSg7AivkRLOJFOSzUBe51NNPAu0FnpisMlaQW8",
 
   pages: {
     masterlist:    "masterlist",
